@@ -1,0 +1,26 @@
+{
+  "name": "crm_apirest",
+  "version": "1.0.0",
+  "description": "A fullstack CRM (Customer Relationship Management) application built with Laravel and React. Designed to help teams manage clients, contacts, activities, and track business relationships in a clean and efficient way.",
+  "main": "index.js",
+  "devDependencies": {
+    "@commitlint/cli": "^20.5.2",
+    "@commitlint/config-conventional": "^20.5.0",
+    "husky": "^9.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroJarque/CRM_APIrest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroJarque/CRM_APIrest/issues"
+  },
+  "homepage": "https://github.com/AlejandroJarque/CRM_APIrest#readme"
+}
