@@ -9,7 +9,7 @@
 
 ## 🔴 Alta prioridad
 
-- [ ] 1. Gitflow profesional (estandarizar ramas, commits convencionales y protección de main/develop)
+- [x] 1. Gitflow profesional (estandarizar ramas, commits convencionales y protección de main/develop)
 - [ ] 2. Convención respuestas JSON (unificar estructura de respuesta en todos los endpoints)
 - [ ] 3. Rate limiting (limitar peticiones por token y por IP con middleware throttle)
 - [ ] 4. Deals / Oportunidades (nueva entidad con importe, etapa y fecha de cierre ligada a clientes)
