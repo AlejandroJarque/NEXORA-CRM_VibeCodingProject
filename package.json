@@ -1,6 +1,7 @@
 {
   "name": "crm_apirest",
   "version": "1.0.0",
+  "type": "module",
   "description": "A fullstack CRM (Customer Relationship Management) application built with Laravel and React. Designed to help teams manage clients, contacts, activities, and track business relationships in a clean and efficient way.",
   "main": "index.js",
   "devDependencies": {
@@ -9,7 +10,6 @@
     "husky": "^9.1.7"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky"
   },
   "repository": {
