@@ -39,8 +39,10 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   function logout() {
     localStorage.removeItem('token')
+    localStorage.removeItem('nexora-theme')  
     setToken(null)
     setUser(null)
+    document.documentElement.removeAttribute('data-theme')  
   }
 
   return (
