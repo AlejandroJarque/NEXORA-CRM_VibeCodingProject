@@ -1,3 +1,6 @@
+ **Vibe Coding Project** 
+  Nexora was built intentionally using AI-assisted development (vibe coding) as an experiment to explore how far you can go with AI tools when you have a solid programming foundation. The architecture, decisions and code quality were guided by that knowledge, but the implementation was generated with artificial intelligence.
+
 # NEXORA CRM
 
 A fullstack CRM (Customer Relationship Management) application built with Laravel and React. Designed to help teams manage clients, contacts, activities, and track business relationships in a clean and efficient way.
