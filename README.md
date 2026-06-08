@@ -1,4 +1,5 @@
  **Vibe Coding Project** 
+
   Nexora was built intentionally using AI-assisted development (vibe coding) as an experiment to explore how far you can go with AI tools when you have a solid programming foundation. The architecture, decisions and code quality were guided by that knowledge, but the implementation was generated with artificial intelligence.
 
 # NEXORA CRM
