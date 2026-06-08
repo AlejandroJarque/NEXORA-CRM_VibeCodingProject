@@ -351,12 +351,11 @@ All commits follow conventional prefixes: `feat:`, `fix:`, `docs:`, `refactor:`,
 * The codebase follows Laravel and REST best practices
 * The project is designed to be easily extendable
 
-## Mailing and Events
+## Events
 
 The project includes support for domain events and notifications:
 
 * Domain events are triggered on relevant actions (e.g. client creation, activity registration)
-* The structure allows easy extension for email notifications or asynchronous processing
-* The system is ready to be integrated with external mailing services if required
+
 
 
